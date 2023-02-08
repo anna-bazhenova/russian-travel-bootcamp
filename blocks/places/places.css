@@ -2,3 +2,9 @@
     padding: 0 148px 92px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 1024px) {
+    .places {
+        padding: 0 48px 92px;
+    }    
+}
